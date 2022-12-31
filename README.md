@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Golds GYM
+Golds Gym is a fitness website with many exercise categories, including information about each exercise with GIFs and Youtube videos.
+Search functionality for searching specific exercises
+Exercises are divided into several categories, such as back, cardio, chest, legs, etc.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The ExerciseDB API is used to fetch data about different exercises.
+The YouTube Search and Download API is used to locate YouTube videos of specific exercises. 
 
-## Available Scripts
+## Website is Deployed at
+https://tanmays-golds-gym.netlify.app/
 
-In the project directory, you can run:
+## Some Screenshots of Website
 
-### `npm start`
+<img width="1512" alt="Screenshot 2022-12-31 at 7 00 14 PM" src="https://user-images.githubusercontent.com/113775745/210138839-013e122e-955d-4727-a1eb-8ac9ac6f213d.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="1512" alt="Screenshot 2022-12-31 at 7 00 23 PM" src="https://user-images.githubusercontent.com/113775745/210138850-d135dc3c-d51a-4b29-a657-f453a95bb1a9.png">
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1512" alt="Screenshot 2022-12-31 at 7 00 35 PM" src="https://user-images.githubusercontent.com/113775745/210138855-1bc0b694-37f7-4743-89a6-3c8aff9abc55.png">
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="1512" alt="Screenshot 2022-12-31 at 7 03 27 PM" src="https://user-images.githubusercontent.com/113775745/210138858-d06f8b33-9583-4755-a2d1-f69a0efe3bc3.png">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="1512" alt="Screenshot 2022-12-31 at 7 03 38 PM" src="https://user-images.githubusercontent.com/113775745/210138862-f186d2c0-657c-47ba-9357-638279e2ad86.png">
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1512" alt="Screenshot 2022-12-31 at 7 03 45 PM" src="https://user-images.githubusercontent.com/113775745/210138865-f5150fb4-1fde-4049-ab9c-b1fe899be7d8.png">
